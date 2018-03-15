@@ -2,7 +2,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://matthews.cloud/'
   relativeLinks: 'http://matthews.cloud/links.jsonp'
-  media: 'media'
+  media: 'images'
   ignore:
     - _config.yml
     - /_layouts
